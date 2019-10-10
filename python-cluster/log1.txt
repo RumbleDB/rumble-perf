@@ -1,0 +1,5 @@
+43096 milliseconds
+42796 milliseconds
+44078 milliseconds
+41772 milliseconds
+53597 milliseconds

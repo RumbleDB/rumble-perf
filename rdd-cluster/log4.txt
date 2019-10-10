@@ -1,0 +1,5 @@
+101938milliseconds
+99230milliseconds
+96590milliseconds
+94658milliseconds
+99941milliseconds

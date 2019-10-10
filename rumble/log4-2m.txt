@@ -1,0 +1,5 @@
+[ExecTime]36005
+[ExecTime]35902
+[ExecTime]35116
+[ExecTime]38688
+[ExecTime]32599

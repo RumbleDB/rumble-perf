@@ -1,0 +1,1 @@
+json-file("hdfs:///user/hadoop/confusion-2014-03-02-01.json")[$$.target eq $$.guess and $$.target eq "Russian"]
