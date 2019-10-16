@@ -1,1 +1,1 @@
-json-file("s3://rumble-datasets/00")[$$.subreddit eq "ethz"]
+json-file("s3://rumble-datasets/reddit/00")[$$.subreddit eq "ethz"]
