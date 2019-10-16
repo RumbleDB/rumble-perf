@@ -1,0 +1,1 @@
+json-file("s3://rumble-datasets/00")[$$.subreddit eq "ethz"]

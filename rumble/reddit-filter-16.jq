@@ -1,0 +1,1 @@
+json-file("s3://rumble-datasets/{0*,1[0-5]}")[$$.subreddit eq "ethz"]
