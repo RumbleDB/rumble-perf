@@ -2,3 +2,9 @@ confusion-2014-03-02
 .DS_Store
 .project
 .pydevproject
+*.jar
+*.crc
+lsf.*
+*.log
+output-*/
+output-*
