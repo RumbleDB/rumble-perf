@@ -2,7 +2,7 @@
 
 rm -f ./log-ib-*.txt
 
-reps=5
+reps=25
 
 > ./log-ib-p.txt
 
