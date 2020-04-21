@@ -1,6 +1,6 @@
 #!/bin/bash
 
-reps=3
+reps=25
 
 > ./log-rm-p-1.txt
 

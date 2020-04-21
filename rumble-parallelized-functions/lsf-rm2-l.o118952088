@@ -1,0 +1,160 @@
+Sender: LSF System <lsfadmin@eu-c7-084-11>
+Subject: Job 118952088: <./measure_remove2_local.sh> in cluster <euler> Done
+
+Job <./measure_remove2_local.sh> was submitted from host <eu-login-39> by user <noef> in cluster <euler> at Tue Apr 21 13:43:22 2020
+Job was executed on host(s) <4*eu-c7-084-11>, in queue <normal.4h>, as user <noef> in cluster <euler> at Tue Apr 21 13:43:58 2020
+</cluster/home/noef> was used as the home directory.
+</cluster/home/noef/rumble-perf/rumble-parallelized-functions> was used as the working directory.
+Started at Tue Apr 21 13:43:58 2020
+Terminated at Tue Apr 21 14:49:49 2020
+Results reported at Tue Apr 21 14:49:49 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./measure_remove2_local.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5704.36 sec.
+    Max Memory :                                 15235 MB
+    Average Memory :                             9109.83 MB
+    Total Requested Memory :                     20480.00 MB
+    Delta Memory :                               5245.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                176
+    Run time :                                   3962 sec.
+    Turnaround time :                            3987 sec.
+
+The output (if any) follows:
+
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:44:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:46:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:49:08 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:51:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:54:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:56:58 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 13:59:33 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:02:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:05:05 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:07:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:10:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:13:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:16:25 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:19:16 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:22:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:24:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:27:37 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:30:24 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:32:51 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:35:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:37:48 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:40:13 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:42:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:44:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+Picked up _JAVA_OPTIONS: -XX:ParallelGCThreads=1
+20/04/21 14:47:24 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Running in local mode
